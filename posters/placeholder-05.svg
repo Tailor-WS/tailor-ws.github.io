@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="840" viewBox="0 0 600 840">
+<rect x="0" y="0" width="600" height="840" fill="#f4f1e9"/>
+<rect x="32" y="32" width="12" height="12" fill="#ae4022"/>
+<text x="55" y="43" fill="#222c28" font-size="12" font-family="Arial,sans-serif" font-weight="bold">TAILOR / ITASEC27</text>
+<text x="32" y="87" fill="#ae4022" font-size="11" font-family="Arial,sans-serif" font-weight="bold">PLACEHOLDER POSTER 05</text>
+<text x="32" y="134" fill="#222c28" font-size="38" font-family="Georgia,serif" font-weight="normal">Your research</text>
+<text x="32" y="178" fill="#222c28" font-size="38" font-family="Georgia,serif" font-weight="normal">starts here.</text>
+<text x="32" y="211" fill="#60665e" font-size="12" font-family="Arial,sans-serif" font-weight="normal">Poster title, authors, and affiliation to be announced.</text>
+<rect x="32" y="237" width="536" height="1" fill="#d7d8ca"/>
+<text x="32" y="269" fill="#222c28" font-size="11" font-family="Arial,sans-serif" font-weight="bold">01 / INTRODUCTION</text>
+<text x="32" y="294" fill="#60665e" font-size="12" font-family="Arial,sans-serif" font-weight="normal">This is a demonstration placeholder for the digital gallery.</text>
+<text x="32" y="315" fill="#60665e" font-size="12" font-family="Arial,sans-serif" font-weight="normal">It does not represent an accepted contribution or research result.</text>
+<text x="32" y="362" fill="#222c28" font-size="11" font-family="Arial,sans-serif" font-weight="bold">02 / APPROACH</text>
+<rect x="32" y="383" width="240" height="3" fill="#d7d8ca"/>
+<rect x="32" y="398" width="225" height="3" fill="#d7d8ca"/>
+<rect x="32" y="413" width="240" height="3" fill="#d7d8ca"/>
+<rect x="32" y="428" width="175" height="3" fill="#d7d8ca"/>
+<text x="312" y="362" fill="#222c28" font-size="11" font-family="Arial,sans-serif" font-weight="bold">03 / FINDINGS</text>
+<rect x="312" y="383" width="240" height="3" fill="#d7d8ca"/>
+<rect x="312" y="398" width="225" height="3" fill="#d7d8ca"/>
+<rect x="312" y="413" width="240" height="3" fill="#d7d8ca"/>
+<rect x="312" y="428" width="175" height="3" fill="#d7d8ca"/>
+<rect x="32" y="466" width="536" height="184" fill="#dedfdf"/>
+<text x="54" y="500" fill="#60665e" font-size="10" font-family="Arial,sans-serif" font-weight="normal">FIGURE / VISUAL PLACEHOLDER</text>
+<rect x="54" y="574.0" width="55" height="45.0" fill="#929e87"/>
+<rect x="179" y="544.0" width="55" height="75.0" fill="#ae4022"/>
+<rect x="304" y="559.0" width="55" height="60.0" fill="#929e87"/>
+<rect x="429" y="514.0" width="55" height="105.0" fill="#929e87"/>
+<text x="32" y="689" fill="#222c28" font-size="11" font-family="Arial,sans-serif" font-weight="bold">04 / CONCLUSION &amp; REFERENCES</text>
+<text x="32" y="715" fill="#60665e" font-size="12" font-family="Arial,sans-serif" font-weight="normal">Replace this sample PDF with the final author-supplied poster.</text>
+<rect x="32" y="767" width="536" height="1" fill="#d7d8ca"/>
+<text x="32" y="795" fill="#ae4022" font-size="10" font-family="Arial,sans-serif" font-weight="bold">GALLERY DEMONSTRATION - NOT A RESEARCH POSTER</text>
+<text x="534" y="795" fill="#222c28" font-size="13" font-family="Arial,sans-serif" font-weight="normal">05</text>
+</svg>
